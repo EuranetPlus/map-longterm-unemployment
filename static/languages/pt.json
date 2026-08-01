@@ -1,13 +1,12 @@
 {
-  "title": "Quais países da UE oferecem as melhores perspectivas de emprego?",
-  "subtitle": "O crescimento futuro do emprego nesses países entre 2022 e 2035 é estimado em 5,6%.",
+  "title": "O desemprego de longa duração é um problema real na UE?",
+  "subtitle": "Em 2025, uma média de 1,8% da força de trabalho da UE foi afetada pelo desemprego de longa duração. Isto representa uma queda de 42% em comparação com 2018 (3,1%).",
   "textNoteDescription": "Observação",
-  "textNote": "SDCHDC",
+  "textNote": "A taxa de desemprego de longa duração é a percentagem da população ativa com idades entre os 15 e os 74 anos que se encontra desempregada há 12 meses ou mais.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acesse os dados",
-  "extraInfo_DE": "Alemanha acelera implementação de energia renovável e tem como meta 80% de energia limpa até 2030",
-  "extraInfo_FR": "Parlamento francês aprova importante projeto de lei de reforma da imigração em meio a protestos em todo o país",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Não há dados disponíveis.",
+  "customUnitLabel": "da força de trabalho",
   "tooltipExtraInfoLabel": "Clique aqui"
 }
