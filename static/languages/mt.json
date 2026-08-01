@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Il-qgħad fit-tul huwa problema reali fl-UE?",
+  "subtitle": "Fl-2025, medja ta’ 1.8% tal-forza tax-xogħol tal-UE kienet affettwata minn qgħad fit-tul. Dan jirrappreżenta tnaqqis ta’ 42% meta mqabbel mal-2018 (3.1%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Ir-rata tal-qgħad fit-tul hija l-perċentwal tal-popolazzjoni li taħdem bejn il-15 u l-74 sena li ilhom qiegħda għal 12-il xahar jew aktar.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "tal-forza tax-xogħol",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
