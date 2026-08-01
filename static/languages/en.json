@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "Is long-term unemployment a real issue in the EU?",
+  "subtitle": "In 2025, an average of 1.8% of the EU labour force was affected by long-term unemployment. This represents a fall of 42% compared with 2018 (3.1%).",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The long-term unemployment rate is the percentage of the working population aged between 15 and 74 who have been unemployed for 12 months or more.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "of labour force",
   "tooltipExtraInfoLabel": "Click here"
 }
