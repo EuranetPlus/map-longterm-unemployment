@@ -1,13 +1,12 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Je li dugotrajna nezaposlenost stvaran problem u EU?",
+  "subtitle": "U 2025. godini, prosječno 1,8% radne snage EU-a bilo je pogođeno dugotrajnom nezaposlenošću. To predstavlja pad od 42% u usporedbi s 2018. (3,1%).",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Stopa dugotrajne nezaposlenosti je postotak radno sposobnog stanovništva u dobi između 15 i 74 godine koje je nezaposleno 12 mjeseci ili dulje.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
+  "customUnitLabel": "radne snage",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
