@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "La disoccupazione di lunga durata rappresenta un problema reale nell'UE?",
+  "subtitle": "Nel 2025, una media dell'1,8% della forza lavoro dell'UE è stata colpita dalla disoccupazione di lunga durata. Ciò rappresenta una diminuzione del 42% rispetto al 2018 (3,1%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Il tasso di disoccupazione di lunga durata è la percentuale della popolazione attiva di età compresa tra 15 e 74 anni che è disoccupata da 12 mesi o più.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "della forza lavoro",
   "tooltipExtraInfoLabel": "clicca qui"
 }
