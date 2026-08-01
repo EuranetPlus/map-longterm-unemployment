@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Este șomajul de lungă durată o problemă reală în UE?",
+  "subtitle": "În 2025, o medie de 1,8% din forța de muncă a UE a fost afectată de șomajul de lungă durată. Aceasta reprezintă o scădere de 42% față de 2018 (3,1%).",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Rata șomajului de lungă durată reprezintă procentul din populația activă cu vârsta cuprinsă între 15 și 74 de ani care este șomeră timp de 12 luni sau mai mult.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
+  "customUnitLabel": "forței de muncă",
   "tooltipExtraInfoLabel": "Click aici"
 }
