@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Är långtidsarbetslöshet ett verkligt problem i EU?",
+  "subtitle": "År 2025 var i genomsnitt 1,8 % av EU:s arbetskraft drabbad av långtidsarbetslöshet. Detta motsvarar en minskning med 42 % jämfört med 2018 (3,1 %).",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Långtidsarbetslösheten är andelen av den arbetande befolkningen i åldern 15 till 74 år som har varit arbetslösa i 12 månader eller mer.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "av arbetskraften",
   "tooltipExtraInfoLabel": "Klicka här"
 }
