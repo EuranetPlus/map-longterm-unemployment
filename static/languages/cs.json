@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Je dlouhodobá nezaměstnanost v EU skutečným problémem?",
+  "subtitle": "V roce 2025 bylo dlouhodobou nezaměstnaností postiženo průměrně 1,8 % pracovní síly v EU. To představuje pokles o 42 % ve srovnání s rokem 2018 (3,1 %).",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Míra dlouhodobé nezaměstnanosti je procento produktivní populace ve věku 15 až 74 let, která je nezaměstnaná 12 měsíců nebo déle.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Žádné údaje k dispozici",
+  "customUnitLabel": "pracovní síly",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
