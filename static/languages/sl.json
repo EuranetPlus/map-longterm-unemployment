@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Je dolgotrajna brezposelnost resničen problem v EU?",
+  "subtitle": "Leta 2025 je bila dolgotrajna brezposelnost v povprečju prizadeta 1,8 % delovne sile EU. To predstavlja 42-odstotni upad v primerjavi z letom 2018 (3,1 %).",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Stopnja dolgotrajne brezposelnosti je odstotek delovno aktivnega prebivalstva, starega med 15 in 74 let, ki je brezposelno 12 mesecev ali več.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "delovne sile",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
