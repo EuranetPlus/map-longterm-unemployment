@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai ilgtermiņa bezdarbs ir reāla problēma ES?",
+  "subtitle": "2025. gadā vidēji 1,8 % ES darbaspēka skāra ilgstošs bezdarbs. Tas ir par 42 % mazāk nekā 2018. gadā (3,1 %).",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Ilgtermiņa bezdarba līmenis ir to darbspējīgo iedzīvotāju procentuālā daļa vecumā no 15 līdz 74 gadiem, kuri ir bijuši bez darba 12 mēnešus vai ilgāk.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "darbaspēka",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
