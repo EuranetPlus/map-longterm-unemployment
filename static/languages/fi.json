@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Onko pitkäaikaistyöttömyys todellinen ongelma EU:ssa?",
+  "subtitle": "Vuonna 2025 pitkäaikaistyöttömyys koki keskimäärin 1,8 prosenttia EU:n työvoimasta. Tämä on 42 prosentin lasku vuoteen 2018 verrattuna (3,1 %).",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Pitkäaikaistyöttömyysaste on niiden 15–74-vuotiaiden työikäisten prosenttiosuus, jotka ovat olleet työttöminä vähintään 12 kuukautta.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "työvoimasta",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
