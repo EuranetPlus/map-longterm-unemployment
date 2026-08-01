@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Is langdurige werkloosheid een reëel probleem in de EU?",
+  "subtitle": "In 2025 had gemiddeld 1,8% van de beroepsbevolking in de EU te maken met langdurige werkloosheid. Dit is een daling van 42% ten opzichte van 2018 (3,1%).",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Het percentage langdurige werkloosheid is het percentage van de beroepsbevolking tussen 15 en 74 jaar dat al 12 maanden of langer werkloos is.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "van de beroepsbevolking",
   "tooltipExtraInfoLabel": "Klik hier"
 }
