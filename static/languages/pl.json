@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy długotrwałe bezrobocie jest prawdziwym problemem w UE?",
+  "subtitle": "W 2025 roku średnio 1,8% siły roboczej w UE było dotknięte długotrwałym bezrobociem. Oznacza to spadek o 42% w porównaniu z rokiem 2018 (3,1%).",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Stopa długotrwałego bezrobocia to odsetek osób w wieku produkcyjnym w wieku od 15 do 74 lat, które są bezrobotne przez co najmniej 12 miesięcy.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "siły roboczej",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
